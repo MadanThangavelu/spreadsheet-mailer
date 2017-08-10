@@ -1,0 +1,4 @@
+rsa
+gspread
+pyasn1_modules
+Jinja2
